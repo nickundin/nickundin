@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickundin
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development (although cyber security is also pretty cool).
 - 🌱 I’m currently working as a web application security developer at Assert Security.
 - 💞️ I’m looking to collaborate on anything, really.
 - 📫 How to reach me: nickundin@gmail.com
