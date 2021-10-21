@@ -1,4 +1,5 @@
-Hi, I’m @nickundin! I am a third-year computer science student at the University of Georgia, and I’m currently interested in learning software engineering (although cybersecurity is also pretty cool).
+# About Me
+Hi, I’m @nickundin! I am a third-year computer science student at the University of Georgia, and I’m currently interested in front-end web development and software engineering.
 <br/>
 # Languages
 ### Proficient
