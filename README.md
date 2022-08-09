@@ -1,5 +1,5 @@
 # About Me
-**Hi, I’m @nickundin! I am a fourth-year computer science student at the University of Georgia, and I’m currently interested in Amazon Web Services and cybersecurity.**
+**Hello! I am a fourth-year computer science student at the University of Georgia, and I am currently interested in cloud technologies and cybersecurity.**
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=nickundin" />
@@ -25,12 +25,12 @@
 # Technologies
 ### Proficient
 <div>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### Familiar
 <div>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
