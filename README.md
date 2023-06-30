@@ -1,5 +1,9 @@
 # About Me
-**Hello! I am a fourth-year computer science student at the University of Georgia, and I am currently interested in cloud technologies and cybersecurity.**
+**Passionate and innovative software developer specializing in AWS. As an accomplished information security engineer on the WASA (web application security assessment) team at Principal Financial Group, I excel in leveraging AWS to develop cutting-edge and secure cloud solutions.**
+
+**I graduated from the University of Georgia in May 2023 with a B.S. in computer science and a minor in general business. This comprehensive educational foundation, combined with the technical knowledge I've gained as an AWS Certified Solutions Architect and Developer, fuels my drive for excellence in the intersection of cloud computing and cybersecurity.**
+
+**I am dedicated to leveraging my expertise to help businesses thrive amidst today's rapidly evolving digital landscape. By aligning cutting-edge cloud solutions with robust cybersecurity measures, I enable organizations to safeguard their assets, driving growth and success through my technical acumen and a relentless pursuit of excellence.**
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=nickundin" />
